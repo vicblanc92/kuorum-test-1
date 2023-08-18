@@ -1,0 +1,7 @@
+.main {
+  @apply p-4 rounded flex flex-col content-center flex-wrap;
+
+  &__div {
+    @apply md:w-[374px] md:justify-center lg:w-[418px];
+  }
+}
