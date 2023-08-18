@@ -1,0 +1,17 @@
+.main {
+  &__secondsection {
+    @apply flex flex-col  flex-wrap rounded-2xl border-2 border-grey-50 p-4 mb-4  text-sm  items-center;
+  }
+
+  &__secondsection--img {
+    @apply mb-4 w-[64px] h-[64px];
+  }
+
+  &__secondsection--text {
+    @apply mb-4 text-center md:text-base lg:text-base;
+  }
+
+  &__secondsection--button {
+    @apply border-2 rounded-lg p-2 border-blue text-blue mb-2 font-semibold;
+  }
+}
