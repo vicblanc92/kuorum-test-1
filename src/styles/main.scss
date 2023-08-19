@@ -4,4 +4,10 @@
   &__div {
     @apply md:w-[374px] md:justify-center lg:w-[418px];
   }
+  &__text {
+    @apply text-grey-200 mb-4;
+  }
+  &__title {
+    @apply mb-1;
+  }
 }

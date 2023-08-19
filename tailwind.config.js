@@ -7,7 +7,6 @@ module.exports = {
     minWidth: {
       104: '104px',
     },
-
     colors: {
       grey: {
         50: '#E0E0E0',
