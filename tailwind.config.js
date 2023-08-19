@@ -6,6 +6,7 @@ module.exports = {
 
     minWidth: {
       104: '104px',
+      108: '108px',
     },
     colors: {
       grey: {
@@ -21,6 +22,9 @@ module.exports = {
         418: '418px',
       },
       height: { 136: '136px', 108: '108px', 156: '156px' },
+      fontFamily: {
+        custom: ['Inter'],
+      },
     },
   },
   plugins: [],
