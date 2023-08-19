@@ -1,0 +1,15 @@
+.firstsection {
+  @apply flex rounded-2xl	border-2 border-grey-50 mb-4 text-sm lg:h-[108px] md:h-[108px];
+
+  &__img {
+    @apply rounded-l-2xl  md:min-w-[104px] md:min-h-[108px];
+  }
+
+  &__article {
+    @apply flex-col p-4;
+  }
+
+  &__link {
+    @apply text-blue font-semibold;
+  }
+}

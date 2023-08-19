@@ -1,0 +1,19 @@
+{
+  "section": {
+    "first": {
+      "title": "Con esta votación has ayudado a reducir la huella de carbono",
+      "link": "Saber más"
+    },
+    "second": {
+      "title": "Voto registrado",
+      "first_text": "Tu voto en la votación “Asamblea General de la Real Federación Española de vela 2023” se ha registrado.",
+      "button": "Descargar certificado",
+      "second_text": "El enlace de descarga de tu certificado de voto tiene una validez de 5 minutos."
+    },
+    "third": {
+      "title": "Crea tu votación",
+      "text": " Construye tu votación en muy pocos pasos y obtén resultados inmediatos.",
+      "link": " Crea votación"
+    }
+  }
+}
