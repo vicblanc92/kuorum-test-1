@@ -2,11 +2,11 @@
   @apply flex rounded-2xl	border-2 border-grey-50 mb-4 text-sm lg:h-[108px] md:h-[108px];
 
   &__img {
-    @apply rounded-l-2xl  md:min-w-[104px] md:min-h-[108px];
+    @apply rounded-l-2xl  md:min-w-[104px] md:max-h-[108px];
   }
 
   &__article {
-    @apply flex-col p-4;
+    @apply flex-col p-4  md:min-h-[108px];
   }
 
   &__link {
