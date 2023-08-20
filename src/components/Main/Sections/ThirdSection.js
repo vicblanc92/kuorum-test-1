@@ -1,6 +1,6 @@
-import cardImage from '../../images/card-image.png';
-import '../../styles/thirdSection.scss';
-import data from '../../texts/texts.json';
+import cardImage from '../../../images/card-image.png';
+import '../../../styles/Main/Sections/thirdSection.scss';
+import data from '../../../texts/texts.json';
 
 const MainThirdSection = () => {
   return (

@@ -1,6 +1,6 @@
 import kuorumLogo from '../../images/logotipo.png';
 import questionIcon from '../../images/question-icon.png';
-import '../../styles/header.scss';
+import '../../styles/Header/header.scss';
 
 const Header = () => {
   return (

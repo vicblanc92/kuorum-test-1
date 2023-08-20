@@ -1,6 +1,6 @@
-import handsImage from '../../images/hands-image.png';
-import '../../styles/firstSection.scss';
-import data from '../../texts/texts.json';
+import handsImage from '../../../images/hands-image.png';
+import '../../../styles//Main/Sections/firstSection.scss';
+import data from '../../../texts/texts.json';
 
 const FirstSection = () => {
   return (

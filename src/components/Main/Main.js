@@ -1,7 +1,7 @@
-import FirstSection from '../Main/FirstSection';
-import SecondSection from '../Main/SecondSection';
-import ThirdSection from '../Main/ThirdSection';
-import '../../styles/main.scss';
+import FirstSection from './Sections/FirstSection';
+import SecondSection from './Sections/SecondSection';
+import ThirdSection from './Sections/ThirdSection';
+import '../../styles/Main/main.scss';
 
 const Main = () => {
   return (

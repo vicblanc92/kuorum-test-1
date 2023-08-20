@@ -1,6 +1,6 @@
-import succesImage from '../../images/success.png';
-import '../../styles/secondSection.scss';
-import data from '../../texts/texts.json';
+import succesImage from '../../../images/success.png';
+import '../../../styles/Main/Sections/secondSection.scss';
+import data from '../../../texts/texts.json';
 
 const SecondSection = () => {
   return (
