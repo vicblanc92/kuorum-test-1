@@ -10,7 +10,7 @@
   }
 
   &__text {
-    @apply mb-4 text-center md:text-base lg:text-base w-[240px] md:w-auto lg:w-auto;
+    @apply mb-4 text-center md:text-base lg:text-base  md:w-auto lg:w-auto;
   }
 
   &__second-text {
